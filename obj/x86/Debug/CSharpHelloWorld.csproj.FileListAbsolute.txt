@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\CSharpHelloWorld.exe
+d:\documents\visual studio 2010\Projects\CSharpHelloWorld\CSharpHelloWorld\bin\Debug\CSharpHelloWorld.pdb
+d:\documents\visual studio 2010\Projects\CSharpHelloWorld\CSharpHelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\CSharpHelloWorld\CSharpHelloWorld\obj\x86\Debug\CSharpHelloWorld.exe
+d:\documents\visual studio 2010\Projects\CSharpHelloWorld\CSharpHelloWorld\obj\x86\Debug\CSharpHelloWorld.pdb
